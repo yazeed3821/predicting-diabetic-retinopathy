@@ -1,4 +1,4 @@
-# Predicting Diabetic Retinopathy 👁️🩺
+# Predicting Diabetic Retinopathy 
 
 ## Overview
 This repository contains a machine learning project aimed at predicting Diabetic Retinopathy based on various patient health metrics. The project involves data preprocessing, exploratory data analysis (EDA), and training classification models to assist in early detection.
